@@ -1,4 +1,5 @@
 #!/bin/bash
 # bin/compile <build-dir> <cache-dir>
 
-rm -rf $2/*
+echo "Removing $2 contents."
+rm -rfv $2/*
