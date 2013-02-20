@@ -1,0 +1,4 @@
+#!/bin/bash
+# bin/compile <build-dir> <cache-dir>
+
+rm -rf $2/*
